@@ -25,9 +25,9 @@ ContaCam is a free Video Surveillance and Live Webcam software for Windows is ex
 
 	{path to callurl.cmd} "{Pushsafer API URL}"
   
-	D:\callurl.cmd "https://www.pushsafer.com/api?k=XXXXXXXXXXXXXXXXXXXX&d=269&i=82&s=25&v=3&t=go1984%20Alarm&m=Motion%20detection%20Living%20room"
+	D:\callurl.cmd "https://www.pushsafer.com/api?k=XXXXXXXXXXXXXXXXXXXX&d=269&i=82&s=25&v=3&t=ContaCam%20Alarm&m=Motion%20detection%20Living%20room"
   
-## Screenshots of go1984 Push-Notifications
+## Screenshots of ContaCamf Push-Notifications
 
 Screenshot Client App
 
