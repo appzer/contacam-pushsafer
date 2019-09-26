@@ -1,4 +1,5 @@
-![Pushsafer](https://www.pushsafer.com/de/assets/logos/logo.png)
+<img src="https://www.pushsafer.com/de/assets/logos/logo.png" alt="Pushsafer" width="350">
+
 # contacam-pushsafer
 ##How to send push-notifications out of ContaCam
 ContaCam is a free Video Surveillance and Live Webcam software for Windows is extremely easy on system resources, and does not contain unnecessary bloat. It is fast, light, and versatile enough to meet all your security needs while still being very user friendly and able to run on even the most moderate systems.
