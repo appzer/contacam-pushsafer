@@ -12,7 +12,7 @@ ContaCam is a free Video Surveillance and Live Webcam software for Windows is ex
 
 ## Usage >=9.0.0
 1. copy the file [pushsafer-contacam.bat](https://github.com/appzer/contacam-pushsafer/blob/master/pushsafer-contacam.bat) to a desired path on you PC
-2. pushsafer-contacam.bat is a small batch program that uses cURL (>=Windows10) to send a request to the psushafer API
+2. pushsafer-contacam.bat is a small batch program that uses cURL (>=Windows10) to send a request to the pushsafer API
 3. Edit pushsafer-contacam.bat to your needs (Section Pushsafer Settings) and save the file
 4. Open ContaCam Advanced Settings
 5. Enter **C:\Windows\System32\cmd.exe** to Programm
